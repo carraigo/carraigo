@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carraigo
-- 👀 I’m interested in Data, Python, Go & c++
-- 🌱 I’m currently learning Python, Go & c++
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Python & Go
 - 📫 Reach me - im.craig.mckay@gmail.com
 
 <!---
